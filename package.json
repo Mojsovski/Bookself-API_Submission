@@ -1,0 +1,19 @@
+{
+  "name": "bookself-api_submission",
+  "version": "1.0.0",
+  "description": "Submission for Belajar Membuat Aplikasi Back-End untuk Pemula Dicoding",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amratta Tegar Lazuardy",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.0.0",
+    "nanoid": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
